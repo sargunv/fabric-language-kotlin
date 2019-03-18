@@ -17,11 +17,11 @@ object Jetbrains {
 
 object Fabric {
     object Loader {
-        const val version = "0.3.6.+"
+        const val version = "0.4.0+"
     }
 
     object API {
-        const val version = "0.1.5"
+        const val version = "0.2.3"
     }
 
     object Loom {
@@ -37,5 +37,5 @@ object Fabric {
 }
 
 object Minecraft {
-    const val version = "19w05a"
+    const val version = "19w11b"
 }

@@ -67,6 +67,7 @@ repositories {
     maven(url = "https://kotlin.bintray.com/kotlinx/") {
         name = "KotlinX"
     }
+    mavenLocal()
     mavenCentral()
     jcenter()
 }
